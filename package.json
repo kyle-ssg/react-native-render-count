@@ -1,0 +1,19 @@
+{
+  "name": "react-native-render-count",
+  "version": "1.0.0",
+  "description": "Keep track of how many times you're rendering components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "keywords": [
+    "react-native",
+    "debugging",
+    "performance"
+  ],
+  "author": "kyle-ssg",
+  "license": "ISC"
+}
