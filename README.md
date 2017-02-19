@@ -8,3 +8,5 @@ I've caught a lot of performance leaks in the past simply by putting this compon
 ```
     <RenderCount/>
 ```
+
+<img src="http://g.recordit.co/Y2EYOw1Edg.gif"/>
